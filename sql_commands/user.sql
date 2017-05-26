@@ -1,0 +1,3 @@
+CREATE USER avracardabra
+WITH SUPERUSER
+ENCRYPTED PASSWORD 'password';
