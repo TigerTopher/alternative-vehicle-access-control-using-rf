@@ -1,5 +1,6 @@
-# AVra-Cardabra
-
+# Vehicle Access Control Framework using RF Technology
+## Alias: AVra-Cardabra
+### ToDo: Add documentation & setup tutorial.
 
 # Setup Tutorial
 * Install Pycrypto
@@ -25,15 +26,13 @@ The following is how to setup SWIG in your Raspberry PI and use it to create a w
 Install SWIG:
 `sudo apt-get install swig`
 
-You're SWIG is now installed. Next is
+You're SWIG is now installed. 
 
 * Hooking to CRONTAB
+ToDo.
 
 * Pins used
-
-# AES256
-- keylength: 256 bits
-- 32 bytes is 256 bits.
+ToDo.
 
 # Resources
 Ultrasonic Sensor Module
